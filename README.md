@@ -1,4 +1,6 @@
 # hello-world
 Just another repository
 
-hello everyone just learing how to code and try my talents at this.
+
+hello everyone, new to the world of coding and trying something new. 
+
